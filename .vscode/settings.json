@@ -1,0 +1,12 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\91910\\OneDrive\\Desktop\\mysql-connector-j-8.0.33.jar"
+    ],
+    "java.project.sourcePaths": [
+        "Project_1C.java/src",
+        "Project_1C.java",
+        "project01/src"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
